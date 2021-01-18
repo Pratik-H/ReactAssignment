@@ -1,0 +1,6 @@
+module Pods_PratikAssignmentNew_PratikAssignmentNewTests {
+  umbrella header "Pods-PratikAssignmentNew-PratikAssignmentNewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

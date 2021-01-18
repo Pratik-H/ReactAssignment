@@ -1,0 +1,6 @@
+module Pods_PratikAssignmentNew {
+  umbrella header "Pods-PratikAssignmentNew-umbrella.h"
+
+  export *
+  module * { export * }
+}
